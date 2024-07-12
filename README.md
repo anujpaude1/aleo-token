@@ -1,7 +1,4 @@
 
-## Summary
-
-This is a short README for a custom token in Leo.
 
 ## How to Run
 
