@@ -1,4 +1,4 @@
-# token_ibwk6gn.aleo
+# token_ibwk6gnn.aleo
 
 ## Build Guide
 

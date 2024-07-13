@@ -1,4 +1,4 @@
-program token_ibwk6gn.aleo {
+program token_ibwk6gnn.aleo {
     // On-chain storage of an `account` map, with `address` as the key,
     // and `u64` as the value.
     mapping account: address => u64;
